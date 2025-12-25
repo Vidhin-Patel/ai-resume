@@ -40,3 +40,7 @@ Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Impl
 👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
 
 👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+
+<p align="center">
+  <img src="home.png" width="100%" />
+</p>
